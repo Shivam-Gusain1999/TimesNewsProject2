@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "69b29238f184dcb54e590eac",
+    "username": "timesnews",
+    "email": "ankit@gmail.com",
+    "fullName": "ankit",
+    "avatar": "",
+    "password": "$2b$10$mYEX3JEFsUqGIaTPJ8Ooh.qYdJvzdNk1wmGr0NH/8C.ww0po3jwUS",
+    "role": "USER",
+    "createdAt": "2026-03-12T10:15:20.281Z",
+    "updatedAt": "2026-03-12T10:15:44.068Z",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OWIyOTIzOGYxODRkY2I1NGU1OTBlYWMiLCJpYXQiOjE3NzMzMTA1NDQsImV4cCI6MTc3NDE3NDU0NH0.UCHuODPrip3lt2jbmimySYrT33wLqxq2UO01nXyJzSM"
+  },
+  {
+    "_id": "69b2961f5edf675355dc59c0",
+    "username": "superadmin",
+    "email": "admin@news.com",
+    "fullName": "Super Admin",
+    "password": "$2b$10$vbmV0wjfIvy0s3r7j9cJ1OzSFYuEgjUz8hmG/u0t4ntoIuHZU4rb2",
+    "role": "ADMIN",
+    "createdAt": "2026-03-12T10:31:59.294Z",
+    "updatedAt": "2026-03-16T08:47:54.516Z",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OWIyOTYxZjVlZGY2NzUzNTVkYzU5YzAiLCJpYXQiOjE3NzM2NTA4NzQsImV4cCI6MTc3NDUxNDg3NH0.Z7MqrNyR0cPxpe-xlyO0jSbSycsRC_KDXnDLOwmkeak"
+  },
+  {
+    "_id": "69b3add0c1c859e78364f24e",
+    "username": "shivamgusain",
+    "email": "shivam@gmail.com",
+    "fullName": "shippa",
+    "avatar": "",
+    "password": "$2b$10$GgSh4wFGypMKiko2SpSGbuD1nEF6LPb7u0iaE5c8FV6AmQJrXfPWG",
+    "role": "USER",
+    "createdAt": "2026-03-13T06:25:20.311Z",
+    "updatedAt": "2026-03-13T06:25:20.311Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3c2f3c1c859e78364f252",
+    "username": "ankit",
+    "email": "ankit@news.com",
+    "fullName": "ankit",
+    "avatar": "",
+    "password": "$2b$10$pSCtVQGMu77tvHNp4Zy7.OzSf.uCBp1MPDMETUmjrMYm7rQe36dRC",
+    "role": "USER",
+    "createdAt": "2026-03-13T07:55:31.504Z",
+    "updatedAt": "2026-03-13T07:55:31.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3c8128d70854976f71320",
+    "username": "ankitsdg",
+    "email": "anakit@news.com",
+    "fullName": "ankit",
+    "avatar": "",
+    "password": "$2b$10$ey.u91Wxm6WmcCRPnRQ6XukQXLOHXiFNd6dWDXLVBAsK75rTG0EZC",
+    "role": "USER",
+    "createdAt": "2026-03-13T08:17:22.884Z",
+    "updatedAt": "2026-03-13T08:17:22.884Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3c8bf8d70854976f71324",
+    "username": "ujjawal",
+    "email": "ankitdd@news.com",
+    "fullName": "ujjawal",
+    "avatar": "",
+    "password": "$2b$10$1Fe6bi.62M9Cz6oHZqun/OMZptyIJMmQn4l1BxXxtUt5Ps.3VPMoK",
+    "role": "USER",
+    "createdAt": "2026-03-13T08:20:15.855Z",
+    "updatedAt": "2026-03-13T08:20:15.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3c9828d70854976f7132a",
+    "username": "ujjawalasd",
+    "email": "ujjawal@news.com",
+    "fullName": "ujjawal",
+    "avatar": "",
+    "password": "$2b$10$zB6EGZUpUGqeKtk8wanKQO2vWGS0hfZoSI3Ut/xr6VtFmFxHMgRJS",
+    "role": "USER",
+    "createdAt": "2026-03-13T08:23:30.253Z",
+    "updatedAt": "2026-03-13T09:08:54.798Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3d0c68d70854976f71340",
+    "username": "ankitasdfghj",
+    "email": "ankit123@news.com",
+    "fullName": "ankit",
+    "avatar": "",
+    "password": "$2b$10$F0eVSR1kdRJ/u.vHOX/TNegv75ZbdJhVWMtGgLn.Q8mZEr3kYB9Im",
+    "role": "ADMIN",
+    "createdAt": "2026-03-13T08:54:30.281Z",
+    "updatedAt": "2026-03-13T09:07:18.070Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3d2abc1c859e78364f256",
+    "username": "sailu",
+    "email": "sailu@gmail.com",
+    "fullName": "sailu",
+    "avatar": "",
+    "password": "$2b$10$mMcurq6/qU4Ad1WpICMiEOXJDGOBIhBMqRjZUowug62REOcOgJYX2",
+    "role": "USER",
+    "createdAt": "2026-03-13T09:02:35.251Z",
+    "updatedAt": "2026-03-13T09:02:35.251Z",
+    "__v": 0
+  }
+]
